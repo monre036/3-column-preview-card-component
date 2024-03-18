@@ -9,7 +9,7 @@ img {
 
 a {
     text-decoration: none;
-    color: inherit;
+    color: black;
 }
 
 ul {
@@ -22,4 +22,79 @@ ul {
 body {
     margin: 0;
     font-family: sans-serif;
+    color: #f2f2f2;
+}
+
+.box {
+    width: 327px;
+    height: 442px;
+    margin-inline: auto;
+    padding: 48px;
+    position: relative;
+}
+
+.box-orange {
+    background-color: #E28625;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+}
+
+.box-blue {
+    background-color: #006971;
+}
+
+.box-green {
+    background-color: #004140;
+    border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+}
+
+.circle-image {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.21);
+}
+
+.image {
+    position: absolute;
+    width: 43.91px;
+    height: 20px;
+    top: 10px;
+    left: 20px;
+}
+
+.title {
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-size: 40px;
+}
+
+.parraf {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.boton {
+    position: absolute;
+    background-color: #f2f2f2;
+    bottom: 48px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    padding: 15px 32px;
+    border-radius: 25px;
+}
+
+.boton-orange {
+    color: #E28625;
+}
+
+.boton-blue {
+    color: #006971;
+}
+
+.boton-green {
+    color: #004140;
 }
