@@ -118,13 +118,11 @@ body {
     }
 
     .box-orange {
-        border-top-left-radius: 8px;
         border-bottom-left-radius: 8px;
         border-top-right-radius: 0;
     }
 
     .box-green {
-        border-bottom-right-radius: 8px;
         border-top-right-radius: 8px;
         border-bottom-left-radius: 0;
     }
