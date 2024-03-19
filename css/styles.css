@@ -25,6 +25,9 @@ body {
     color: #f2f2f2;
     padding-top: 25px;
     padding-bottom: 25px;
+}
+
+.container {
     font-size: 0;
 }
 
@@ -38,8 +41,8 @@ body {
 
 .box-orange {
     background-color: #E28625;
-    border-top-left-radius: 2%;
-    border-top-right-radius: 2%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
 }
 
 .box-blue {
@@ -48,19 +51,11 @@ body {
 
 .box-green {
     background-color: #004140;
-    border-bottom-left-radius: 2%;
-    border-bottom-right-radius: 2%;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 
-.circle-image {
-    position: relative;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    background-color: rgba(0, 0, 0, 0.21);
-}
-
-.image {
+.box-image {
     position: absolute;
     width: 43.91px;
     height: 20px;
@@ -68,19 +63,27 @@ body {
     left: 20px;
 }
 
-.title {
+.box-circle-image {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.21);
+}
+
+.box-title {
     font-family: 'Big Shoulders Display', sans-serif;
     font-size: 40px;
 }
 
-.parraf {
+.box-parrafo {
     font-family: 'Lexend Deca', sans-serif;
     font-size: 15px;
     line-height: 25px;
     color: rgba(255, 255, 255, 0.75);
 }
 
-.boton {
+.box-boton {
     position: absolute;
     background-color: #f2f2f2;
     bottom: 48px;
@@ -90,15 +93,15 @@ body {
     border-radius: 25px;
 }
 
-.boton-orange {
+.box-boton-orange {
     color: #E28625;
 }
 
-.boton-blue {
+.box-boton-blue {
     color: #006971;
 }
 
-.boton-green {
+.box-boton-green {
     color: #004140;
 }
 
@@ -115,35 +118,35 @@ body {
     }
 
     .box-orange {
-        border-top-left-radius: 2%;
-        border-bottom-left-radius: 2%;
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 8px;
         border-top-right-radius: 0;
     }
 
     .box-green {
-        border-bottom-right-radius: 2%;
-        border-top-right-radius: 2%;
+        border-bottom-right-radius: 8px;
+        border-top-right-radius: 8px;
         border-bottom-left-radius: 0;
     }
 
     @media (hover: hover) {
-        .boton:hover {
+        .box-boton:hover {
             bottom: 46px;
         }
 
-        .boton-orange:hover {
+        .box-boton-orange:hover {
             background-color: #E28625;
             border: white 2px solid;
             color: white;
         }
 
-        .boton-blue:hover {
+        .box-boton-blue:hover {
             background-color: #006971;
             border: white 2px solid;
             color: white;
         }
 
-        .boton-green:hover {
+        .box-boton-green:hover {
             background-color: #004140;
             border: white 2px solid;
             color: white;
