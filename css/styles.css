@@ -24,6 +24,8 @@ body {
     font-family: sans-serif;
     color: #f2f2f2;
     padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 0;
 }
 
 .box {
@@ -98,4 +100,53 @@ body {
 
 .boton-green {
     color: #004140;
+}
+
+@media screen and (width >=768px) {
+    body {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .box {
+        width: 307px;
+        height: 500px;
+        display: inline-block;
+    }
+
+    .box-orange {
+        border-top-left-radius: 2%;
+        border-bottom-left-radius: 2%;
+        border-top-right-radius: 0;
+    }
+
+    .box-green {
+        border-bottom-right-radius: 2%;
+        border-top-right-radius: 2%;
+        border-bottom-left-radius: 0;
+    }
+
+    @media (hover: hover) {
+        .boton:hover {
+            bottom: 46px;
+        }
+
+        .boton-orange:hover {
+            background-color: #E28625;
+            border: white 2px solid;
+            color: white;
+        }
+
+        .boton-blue:hover {
+            background-color: #006971;
+            border: white 2px solid;
+            color: white;
+        }
+
+        .boton-green:hover {
+            background-color: #004140;
+            border: white 2px solid;
+            color: white;
+        }
+    }
 }
