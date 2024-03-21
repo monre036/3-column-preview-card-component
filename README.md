@@ -25,15 +25,13 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto]([https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true]([https://raw.githubusercontent.com/monre036/3-column-preview-card-component/main/design/mobile-design.jpg](https://raw.githubusercontent.com/monre036/3-column-preview-card-component/main/design/desktop-preview.jpg)))
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://raw.githubusercontent.com/monre036/3-column-preview-card-component/main/design/desktop-preview.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/monre036/3-column-preview-card-component/main/design/mobile-design.jpg)
 ## Autor ✒️
 
 **TU NOMBRE**
 
-- [micorreo@midominio.com](micorreo@midominio.com)
 - [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
 
 ## Instalación
 
