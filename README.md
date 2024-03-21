@@ -5,7 +5,6 @@
 ## Ejemplo en vivo
 
 - [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
-- [URL-de-la-api](URL-de-la-api)
 
 ## Descripción 📑
 
