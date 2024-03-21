@@ -31,9 +31,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **TU NOMBRE**
 
-- [micorreo@midominio.com](micorreo@midominio.com)
 - [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
 
 ## Instalación
 
