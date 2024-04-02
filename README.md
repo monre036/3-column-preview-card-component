@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](https://monre036.github.io/3-column-preview-card-component/)
+- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
 
 ## Descripción 📑
 
